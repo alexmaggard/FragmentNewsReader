@@ -1,0 +1,17 @@
+Make a copy of the activity_items layout and name it fragment_items.
+Add the source code for a fragment named ItemsFragment.
+You can move most of the code that provides the functionality from the ItemsActivity class.
+To get this code to work correctly, you can use the getActivity method instead of the this
+keyword whenever you need to get a reference to the current activity.
+Modify the activity_items layout so it displays the fragment_items layout.
+Modify the ItemsActivity class so it only displays the activity_items layout.
+Test the app to make sure it works. At this point, it should work the same as it did in step 2.
+Convert the Item activity so it uses a fragment.
+
+Make a copy of the activity_item layout and name it fragment_item.
+Add the source code for a fragment named ItemFragment. You can move most of the code
+that provides the functionality from the ItemActivity class. To get this code to work correctly,
+you can use the getActivity method instead of the this keyword whenever you need to get a reference to the current activity.
+Modify the activity_item layout so it displays the fragment_item layout.
+Modify the ItemActivity class so it only displays the activity_item layout.
+Test the app to make sure it works. At this point, it should work the same as it did in step 2.

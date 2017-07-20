@@ -1,0 +1,22 @@
+#Wed Jul 19 18:00:12 PDT 2017
+renamed.6=classes5.dex
+renamed.5=classes2.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes6.dex
+base.6=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c73b0a942c10ffcfa7c711467a3c8620c8a2b2e4
+base.5=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6ad80c3fdc6a270acd23d1da3de9e9efa6750250
+base.4=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_a85dce1066399a34c2ab076f4d64bd9fe66f634b
+base.3=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5cc9e0c1a1bfc69f62d53824578b84a51efb6007
+base.2=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b92b61e4bf8c9fe326a5cbceaba25b133395f39
+base.1=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a43f76b1609800c393632f835bf79f42c590fb3e
+base.0=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eabac5ee0dbfb640b169f78d583be4017732251a
+file.6=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c73b0a942c10ffcfa7c711467a3c8620c8a2b2e4\\classes.dex
+file.5=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6ad80c3fdc6a270acd23d1da3de9e9efa6750250\\classes.dex
+file.4=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_a85dce1066399a34c2ab076f4d64bd9fe66f634b\\classes.dex
+file.3=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5cc9e0c1a1bfc69f62d53824578b84a51efb6007\\classes.dex
+file.2=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b92b61e4bf8c9fe326a5cbceaba25b133395f39\\classes.dex
+file.1=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a43f76b1609800c393632f835bf79f42c590fb3e\\classes.dex
+file.0=C\:\\Users\\660252397\\Desktop\\ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eabac5ee0dbfb640b169f78d583be4017732251a\\classes.dex
